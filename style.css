@@ -314,6 +314,9 @@ transform: scale(0.9);
     width: 250px;
     text-decoration: none;
 }
+#dostavka img{
+    width: 50%;
+}
 
 #num p:hover{
     width: 100%;
